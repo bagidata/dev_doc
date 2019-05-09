@@ -5,7 +5,7 @@ Anda dapat mengambil nama file juga mengambil full path tergantung bagaimana and
 Berikut huruf yg diperlukan:
 
 ```
-d unutk drive
+d untuk drive
 p untuk path
 n untuk nama file
 x untuk extension
