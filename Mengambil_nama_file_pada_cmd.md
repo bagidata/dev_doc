@@ -10,6 +10,7 @@ p untuk path
 n untuk nama file
 x untuk extension
 f untuk full path
+```
 
 contoh 1 :
 `%~nx0`
