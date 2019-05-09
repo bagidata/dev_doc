@@ -41,3 +41,5 @@ contoh 4 :
 hasil :
 
 `c:\tmp\filecmd.bat`
+
+[Sumber](https://stackoverflow.com/questions/8797983/can-a-windows-batch-file-determine-its-own-file-name)
